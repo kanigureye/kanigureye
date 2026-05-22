@@ -1,3 +1,5 @@
+![Tech Stack](https://skillicons.dev/icons?i=typescript,react,nodejs,docker,kubernetes,terraform,aws,linux,git)
+
 **Featured Projects**
 
 🔐 [devsecops-pipeline](https://github.com/kanigureye/devsecops)  
