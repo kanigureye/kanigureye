@@ -1,16 +1,14 @@
-# Hi ????, I'm Siad
+# Hi, I'm Kani
 ### DevOps & DevSecOps Engineer who deploys with direction and purpose
 
 <p align="left">
-  <a href="https://www.instagram.com/siadaadam/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="mailto:siadaadam2@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/siad-adam/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://medium.com/@siadadam2" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="mailto:kanigureye.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/kanigureye/?locale=en" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## ??????? Tech Stack
+##Tech Stack
 
 **Cloud & Infrastructure**
 
@@ -23,11 +21,6 @@
 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-**Scripting & Automation**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 **DevSecOps**
 
@@ -48,34 +41,7 @@ Secure CI/CD pipeline with integrated security scanning at every stage. Combines
 
 ---
 
-### ?????? ECS Fargate Deployment ??? Threat Composer App
-Fully containerised threat modelling application deployed on AWS ECS Fargate with automated CI/CD pipeline. Features auto-scaling, load balancing, and secure container orchestration for production workloads.
-
-**Tech Stack:** AWS ECS Fargate ??? Docker ??? AWS Application Load Balancer ??? Terraform ??? GitHub Actions ??? AWS ECR
-
-[View Project ???](https://github.com/SiadA2/fargate-threat-composer)
-
----
-
-### ?????? Production-Grade EKS GitOps
-Enterprise-ready Kubernetes deployment implementing GitOps methodology with ArgoCD. Includes monitoring, logging, security policies, and automated application delivery with infrastructure as code.
-
-**Tech Stack:** Amazon EKS ??? ArgoCD ??? Terraform ??? Helm Charts ??? Prometheus & Grafana ??? Nginx ??? Kubernetes
-
-[View Project ???](https://github.com/SiadA2/eks-gitops)
-
----
-
-### ???????? Multi-Cloud Blue-Green Deployment
-Advanced deployment strategy implementing blue-green methodology across multiple cloud providers. Features zero-downtime deployments, automated rollback capabilities, and cross-cloud traffic management.
-
-**Tech Stack:** AWS ECS ??? Docker ??? Terraform ??? AWS CodeDeploy ??? AWS Route 53 ??? Application Load Balancer ??? CloudWatch
-
-[View Project ???](https://github.com/SiadA2/ecs-v2)
-
----
-
-## ???? GitHub Stats
+## GitHub Stats
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=SiadA2&show_icons=true&theme=dark" alt="SiadA2 stats"/>
@@ -85,37 +51,5 @@ Advanced deployment strategy implementing blue-green methodology across multiple
 ---
 
 <p align="center">
-  <a href="https://www.siadadam.co.uk/">???? siadadam.co.uk</a>
+  <a href="https://www.siadadam.co.uk/">???? kanigureye.co.uk</a>
 </p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-![Tech Stack](https://skillicons.dev/icons?i=typescript,react,nodejs,docker,kubernetes,terraform,aws,linux,git)
-
-**Featured Projects**
-
-🔐 [devsecops-pipeline](https://github.com/kanigureye/devsecops)  
-A CI/CD pipeline with integrated security checks using GitHub Actions, Trivy and Checkov.
-
-**Tech Stack**
-- TypeScript | Node.js | React
-- Docker | Kubernetes | Terraform
-- AWS | GitHub Actions | Linux
-
-**Connect with me**  
-[LinkedIn](https://www.linkedin.com/in/kanigureye/)
